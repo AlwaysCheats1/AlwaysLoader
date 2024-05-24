@@ -1,0 +1,30 @@
+{
+  "ID1": {
+    "Game": "ZULA",
+    "Server": "TR",
+    "Access": "Verified Member",
+    "State": "Updating",
+    "CheatName": "ZULAVIP",
+    "Developer": "Ares",
+    "GameIcon": "https://www.technopat.net/sosyal/eklenti/explode-1-jpg.821022/"
+  },
+
+  "ID2": {
+    "Game": "CSGO",
+    "Server": "ALL",
+    "Access": "Active Member",
+    "State": "Detected",
+    "CheatName": "CSVIP",
+    "Developer": "Ares",
+    "GameIcon": "https://www.technopat.net/sosyal/eklenti/metro-exodus-jpg.820936/"
+  },
+  "ID3": {
+    "Game": "Valorant",
+    "Server": "ALL",
+    "Access": "Active Member",
+    "State": "Undetected",
+    "CheatName": "ValoVıpHack",
+    "Developer": "Ares",
+    "GameIcon": "https://www.technopat.net/sosyal/eklenti/metro-exodus-jpg.820936/"//random
+  }
+}
