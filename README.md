@@ -1,5 +1,5 @@
-# AlwaysCheats Multiplayer Game Cheats
+# AlwaysCheats Multiplayer Game Hacking
 
-https://alwayscheats.com
+Web : https://alwayscheats.com
 
-discord.gg/RMFyHuVZuS
+Discord : discord.gg/RMFyHuVZuS
